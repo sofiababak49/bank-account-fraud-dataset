@@ -23,7 +23,8 @@ I also created an interactive one-page dashboard in Power BI Desktop using the s
 - A matrix comparing device operating systems and application sources.
 - Filters for application source and employment status.
 
-The filters update all charts, and selecting a bar (for example windows) also changes the other visuals to show the selected group. The totals match the notebook (1,000,000 applications, 11,029 fraud cases, 1.10%). The Power BI file is not included because it contains a copy of the dataset. Instead, the Power BI (.pbix) file is provided on GitHub for download and further editing.
+The filters update all charts, and selecting a bar (for example windows) also changes the other visuals to show the selected group. The totals match the notebook (1,000,000 applications, 11,029 fraud cases, 1.10%). The Power BI file is not included because it contains a copy of the dataset. Instead, Power BI (.pbix) file is available on Google Drive for download and further editing.
+https://drive.google.com/file/d/1WwRmU0pb6QjxvvqoLgXcf-mlEbKXYV4u/view?usp=sharing
 ## Limitations
 - The data is synthetic and anonymised, so the patterns may differ from those found in real banking data.
 - The test period covers only two months and its fraud rate is higher than in the training period.
